@@ -1,0 +1,10 @@
+.idea
+*.iml
+target/
+out/
+logs/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.next
+release.properties
+
